@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseCharacters {
+public class P03ReverseCharacters {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         char[] output = new char[3];

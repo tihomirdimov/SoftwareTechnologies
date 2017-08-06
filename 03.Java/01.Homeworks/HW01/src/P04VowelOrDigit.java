@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelOrDigit {
+public class P04VowelOrDigit {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         char input = scan.next().charAt(0);
