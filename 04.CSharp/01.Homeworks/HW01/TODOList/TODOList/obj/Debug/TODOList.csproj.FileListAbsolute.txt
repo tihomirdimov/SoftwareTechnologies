@@ -66,6 +66,5 @@ D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\b
 D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\bin\Microsoft.AI.WindowsServer.xml
 D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\bin\Microsoft.AI.Web.xml
-D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\obj\Debug\TODOList.csprojResolveAssemblyReference.cache
 D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\obj\Debug\TODOList.dll
 D:\Projects\SoftwareTechnologies\04.CSharp\01.Homeworks\HW01\TODOList\TODOList\obj\Debug\TODOList.pdb
